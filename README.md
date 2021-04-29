@@ -1,1 +1,1 @@
-# geekshop
+# Учебный проэкт курса geekshop
